@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["junco/rev1", "jellytitan"]
+        ["junco/rev1", "jellytitan"],
+        ["keebio/iris/rev6", "two_knob"]
     ]
 }
