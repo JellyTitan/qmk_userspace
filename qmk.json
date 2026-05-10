@@ -5,7 +5,6 @@
         ["keebio/iris/rev6", "two_knob"],
         ["ergodonk_zero", "jellytitan"],
         ["ergodonk_zero", "via"],
-        ["ergodonk_zero", "via_rh"],
-        ["ergodonk_zero", "default_rh"]
+        ["ergodonk_zero", "via_rh"]
     ]
 }
